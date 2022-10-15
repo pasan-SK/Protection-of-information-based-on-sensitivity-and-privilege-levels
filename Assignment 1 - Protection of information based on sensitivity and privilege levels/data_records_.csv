@@ -1,0 +1,16 @@
+patientName,dateOfEntry,ageAtEnry,sicknessDetails,drugPrescriptions,labTestPrescriptions,sensitivityLevel
+
+patient1,2015-06-11 10:48:44.856503,14,"Lorem ipsum dolor sit amet, labore et dolore magna aliqua",Excepteur sint occaecat cupidatat non proident,sunt in culpa qui officia anim id est laborum,0
+
+patient1,2022-06-15 10:48:44.856503,21,"Excepteur non proident, sunt in culpa qui officia anim id est laborum","Nemo enim quia voluptas sit aspern",quaerat voluptatem. Ut enim ad m,0
+
+patient2,2022-07-10 10:48:44.856503,19,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia","sdsd,sdjsdkv",sdfbdfb,1
+
+patient1,2022-07-16 10:48:44.856503,21,"cough, fever, and vomitting generally at morning","sdsd,sdjsdkv",sdfbdfb,2
+
+patient2,2022-07-29 10:48:44.856503,19,"cough only","dfhngf,sdghdgnjsdkv",sdfbddfbdfb,2
+
+ww,2022-09-30 10:48:44.856503,21,"cough, fever, and vomitting generally at morning","sdsd,sdjsdkv",sdfbdfb,2
+patient1,2022-10-09 18:45:08.597767,25,"sdmkkjs sdckjsd c, sddjsklnv, sdlvnsldnv","ksdbvkbsdvjkb, sdlvnnls, sdlnvsdvnlsv","gurgkehrg, ergnegeg, elrgnlerg",1
+patient1,2022-10-09 18:47:57.349563,14,"hjsdbvhjbsdv, sdkjvbksv, sdlvlsdv","hsbdvkbsdv skvuksdvb, dvkjbbsjkdv, sdvkbskdjvbsdv","sdvsdvsdv, sdvbdvllsdvlln, sdvbsd",1
+patient1,2022-10-09 19:04:38.004733,68,"sdhjsdk, sdjklbnvs, sdjkbvs","sdkhvbksjdv, sdv","fksdknsdvlsd, sdnvsil",2
